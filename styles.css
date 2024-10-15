@@ -1,0 +1,51 @@
+ body{
+    color: red;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 15px ;
+    font-family: "Roboto", sans-serif;
+
+}
+
+main{
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 20px;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+.navbar {
+    display: flex;
+    margin: 15px;
+    padding-left: 43%;
+    gap: 30px;
+    list-style: none;
+    font-size: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: red;
+}
+
+.car{
+    padding: 50px;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 250px;
+}
+
+.price{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+footer{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+p{
+    font-size: 20px;
+}  
